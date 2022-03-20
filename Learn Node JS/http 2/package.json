@@ -1,0 +1,24 @@
+{
+  "name": "ppackage",
+  "version": "1.0.0",
+  "description": "we just learn and do the first package",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "web",
+    "code",
+    "design"
+  ],
+  "author": "ngan sophea",
+  "license": "ISC"
+}
